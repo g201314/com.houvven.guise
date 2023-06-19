@@ -1,3 +1,6 @@
+# 很抱歉,暂时没有时间进行更新🦖
+# Sorry, there is no time to update 🦖
+
 <div align="center" style="display: flex; flex-flow: column; align-items: center;">
     <h1>Guise</h1>
     <h5 style="margin-top: -5px;">Put a sheep's skin on your Android app</h5>
