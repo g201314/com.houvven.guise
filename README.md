@@ -1,5 +1,4 @@
-# 很抱歉,暂时没有时间进行更新🦖
-# Sorry, there is no time to update 🦖
+## Sorry, there is no time to update 
 
 <div align="center" style="display: flex; flex-flow: column; align-items: center;">
     <h1>Guise</h1>
